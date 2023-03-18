@@ -1,1 +1,1 @@
-web: nsync server $PORT
+web: nsync server 0.0.0.0 $PORT

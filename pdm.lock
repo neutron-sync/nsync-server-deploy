@@ -202,7 +202,7 @@ summary = "Safely add untrusted strings to HTML/XML markup."
 
 [[package]]
 name = "neutron-sync"
-version = "0.2.0"
+version = "0.3.0"
 requires_python = ">=3.8"
 summary = "Sync your dotfiles securely to an encrypted Git"
 dependencies = [
@@ -763,9 +763,9 @@ content_hash = "sha256:2125a3465c6ea27909fafa3ec21cd209d1c531280febcf2fe86e183f5
     {url = "https://files.pythonhosted.org/packages/ea/60/2400ba59cf2465fa136487ee7299f52121a9d04b2cf8539ad43ad10e70e8/MarkupSafe-2.1.2-cp311-cp311-win_amd64.whl", hash = "sha256:e55e40ff0cc8cc5c07996915ad367fa47da6b3fc091fdadca7f5403239c5fec3"},
     {url = "https://files.pythonhosted.org/packages/f9/aa/ebcd114deab08f892b1d70badda4436dbad1747f9e5b72cffb3de4c7129d/MarkupSafe-2.1.2-cp310-cp310-musllinux_1_1_x86_64.whl", hash = "sha256:7313ce6a199651c4ed9d7e4cfb4aa56fe923b1adf9af3b420ee14e6d9a73df65"},
 ]
-"neutron-sync 0.2.0" = [
-    {url = "https://files.pythonhosted.org/packages/2f/fc/8a7e0755e9f4ebba57731084529539df90f045bc699d783649e6a5104375/neutron-sync-0.2.0.tar.gz", hash = "sha256:ff7d8375c8113676a4e66e8658aacb297950a3b4b61831c03bf20bb4da58f8f0"},
-    {url = "https://files.pythonhosted.org/packages/34/b9/7feae5482584db0d79147ccd0c2baaeba31b2680536401ffc0ff5e4ff526/neutron_sync-0.2.0-py3-none-any.whl", hash = "sha256:6381ab82804981aecb6cbc42e64dfb219f586ebc107efa60afc9cad4a53f78d3"},
+"neutron-sync 0.3.0" = [
+    {url = "https://files.pythonhosted.org/packages/1a/9b/926311fb38fbf9d68bd3ed6a5ad48b40569fb35c36fbb5835a3c63cce6c0/neutron-sync-0.3.0.tar.gz", hash = "sha256:8fb4211d5e061c71b1d0286a81043d80d0229d581f28947ba64ac43370304021"},
+    {url = "https://files.pythonhosted.org/packages/77/bf/86b3662ee9992b4744f663498cb23934c079b1329aae2294d051d21990d0/neutron_sync-0.3.0-py3-none-any.whl", hash = "sha256:107e4b62a298d3d5554b88727fc0961cb31bd0ccb2d6568a739c81b05c10e833"},
 ]
 "pycparser 2.21" = [
     {url = "https://files.pythonhosted.org/packages/5e/0b/95d387f5f4433cb0f53ff7ad859bd2c6051051cebbb564f139a999ab46de/pycparser-2.21.tar.gz", hash = "sha256:e644fdec12f7872f86c58ff790da456218b10f863970249516d60a5eaca77206"},
