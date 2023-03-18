@@ -1,0 +1,18 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Paul Bailey", email = "paul@neutron.studio"},
+]
+dependencies = [
+    "neutron-sync>=0.1.0",
+]
+requires-python = ">=3.10"
+license = {text = "BSDv3"}
+
+[tool.pdm.scripts]
+_.env_file = ".env"
+req = "pdm export -o requirements.txt --without-hashes --prod"
